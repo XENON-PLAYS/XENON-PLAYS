@@ -121,3 +121,5 @@ Quem quiser entrar em contato, pode me chamar pelo meu [LinkedIn](/).
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENON-PLAYS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+![snake gif](https://github.com/XENON-PLAYS/XENON-PLAYS/blob/output/github-snake-dark.svg)
+
