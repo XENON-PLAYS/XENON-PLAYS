@@ -1,4 +1,7 @@
-# 👨🏻‍💻 XENON-PLAYS
+<h1 align="left">
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&lines=XENON_PLAYS"/>
+</h1>
 
 **`Desenvolvedor FullStack`**
 
@@ -74,11 +77,6 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 
 ---
 
-# 🏆 Troféus
-
-![trophy](https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=tokyonight&row=1&column=6)
-
----
 
 # 📈 Atividade
 
