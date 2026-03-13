@@ -89,13 +89,10 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 
 </p>
 
----
 
 ---
 
 # 🏆 Conquistas
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 ### 🚀 Conquistas Pessoais
 
