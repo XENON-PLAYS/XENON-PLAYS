@@ -13,7 +13,7 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 💻 Atualmente estou em busca de uma oportunidade como **Desenvolvedor Web**.
 
 📫 Contato:  
-🔗 https://www.linkedin.com/
+🔗 https://ww.linkdin.com/
 
 <br clear="right">
 
