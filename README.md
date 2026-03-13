@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&width=700&lines=XENON_PLAYS;Desenvolvedor+FullStack;Desenvolvedor+Web;Dev+de+17+anos"/>
 </h1>
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 **`Desenvolvedor FullStack`**
 
