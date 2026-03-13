@@ -2,12 +2,20 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Richard, mas também sou conhecido como Xenon_Plays. Tenho 17 anos e estou cursando o ensino médio técnico em Informática no IFSul.
-Atualmente, estou em busca de uma oportunidade como desenvolvedor web.
-Quem quiser entrar em contato, pode me chamar pelo meu [LinkedIn](/).
+Me chamo **Richard**, também conhecido como **Xenon_Plays**.  
+Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no IFSul**.
+
+💻 Atualmente estou em busca de uma oportunidade como **Desenvolvedor Web**.
+
+📫 Contato:  
+🔗 [LinkedIn](https://www.linkedin.com/)
+
+---
+
+### ⭐ Estatísticas do Perfil
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/XENON-PLAYS?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -25,101 +33,44 @@ Quem quiser entrar em contato, pode me chamar pelo meu [LinkedIn](/).
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br/>
 <br/>
 
 ---
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=XENON-PLAYS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api?username=XENON-PLAYS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENON-PLAYS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img 
+  align="left" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENON-PLAYS&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
 </p>
-![snake gif](https://github.com/XENON-PLAYS/XENON-PLAYS/blob/output/github-snake-dark.svg)
 
+<br/>
+<br/>
+<br/>
+
+---
+
+# 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/XENON-PLAYS/XENON-PLAYS/output/github-snake-dark.svg)
