@@ -7,12 +7,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo **Richard**, também conhecido como **Xenon_Plays**.  
+Me chamo **Richard**, também conhecido como **Xenon_Plays**.
 Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no IFSul**.
 
 💻 Atualmente estou em busca de uma oportunidade como **Desenvolvedor Web**.
 
-📫 Contato:  
+📫 Contato:
 🔗 https://www.linkedin.com/
 
 ---
@@ -20,14 +20,15 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 # ⭐ Estatísticas do Perfil
 
 <p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=XENON-PLAYS&label=VISITAS&color=00ff00&style=for-the-badge"/>
+
 <a href="https://github.com/XENON-PLAYS?tab=repositories&sort=stargazers">
 <img src="https://custom-icon-badges.demolab.com/github/stars/XENON-PLAYS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
 </a>
 
 <a href="https://github.com/XENON-PLAYS?tab=followers">
 <img src="https://custom-icon-badges.demolab.com/github/followers/XENON-PLAYS?color=00ff00&labelColor=004400&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-  
-<img src="https://komarev.com/ghpvc/?username=XENON-PLAYS&label=VISITAS&color=00ff00&style=for-the-badge"/>
 </a>
 
 </p>
@@ -90,8 +91,10 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 
 # 🏆 Conquistas
 
-<p align="center">
+### 🚀 Conquistas Pessoais
 
-<img src="https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=matrix&no-frame=true&margin-w=10"/>
-
-</p>
+* 💻 Desenvolvimento de projetos **FullStack**
+* 🌐 Criação de **sites com HTML, CSS e JavaScript**
+* ⚛️ Experiência com **React e Tailwind**
+* 🛠 Uso de **Git e GitHub para versionamento**
+* 🎓 Estudante de **Informática no IFSul**
