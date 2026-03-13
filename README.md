@@ -1,7 +1,9 @@
 <h1 align="left">
   <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="45"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&lines=XENON_PLAYS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&width=700&lines=XENON_PLAYS;Desenvolvedor+FullStack;Desenvolvedor+Web;Dev+de+17+anos"/>
 </h1>
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 **`Desenvolvedor FullStack`**
 
@@ -11,77 +13,85 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 💻 Atualmente estou em busca de uma oportunidade como **Desenvolvedor Web**.
 
 📫 Contato:  
-🔗 [LinkedIn](https://www.linkedin.com/)
+🔗 https://www.linkedin.com/
 
 ---
 
-### ⭐ Estatísticas do Perfil
+# ⭐ Estatísticas do Perfil
 
 <p align="left">
-    <a href="https://github.com/XENON-PLAYS?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/XENON-PLAYS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/XENON-PLAYS?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/XENON-PLAYS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/XENON-PLAYS?tab=repositories&sort=stargazers">
+<img src="https://custom-icon-badges.demolab.com/github/stars/XENON-PLAYS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+</a>
+
+<a href="https://github.com/XENON-PLAYS?tab=followers">
+<img src="https://custom-icon-badges.demolab.com/github/followers/XENON-PLAYS?color=00ff00&labelColor=004400&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  
+<img src="https://komarev.com/ghpvc/?username=XENON-PLAYS&label=VISITAS&color=00ff00&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 # 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<p align="center">
 
-<br/>
-<br/>
+<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
+</p>
 
 ---
 
 # 📊 Estatísticas
 
-<p>
-<img 
-  align="left" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=XENON-PLAYS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+<p align="center">
 
-<img 
-  align="left" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENON-PLAYS&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=XENON-PLAYS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENON-PLAYS&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+
 </p>
 
-<br/>
-<br/>
-<br/>
+<br clear="both">
 
 ---
-
 
 # 📈 Atividade
 
-[![XENON-PLAYS github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XENON-PLAYS&theme=tokyo-night)](https://github.com/XENON-PLAYS)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XENON-PLAYS&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/XENON-PLAYS/XENON-PLAYS/output/github-snake-dark.svg)
+# 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/XENON-PLAYS/XENON-PLAYS/output/github-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=matrix&no-frame=true&margin-w=10"/>
+
+</p>
