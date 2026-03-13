@@ -69,8 +69,4 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 <br/>
 <br/>
 
----
-
-# 🐍 Contribuições
-
 ![Snake animation](https://raw.githubusercontent.com/XENON-PLAYS/XENON-PLAYS/output/github-snake-dark.svg)
