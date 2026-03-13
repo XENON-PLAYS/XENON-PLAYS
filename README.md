@@ -76,7 +76,7 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 
 # 🏆 Troféus
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=tokyonight&row=1&column=6)
 
 ---
 
