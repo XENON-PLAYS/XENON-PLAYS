@@ -72,4 +72,18 @@ Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no I
 <br/>
 <br/>
 
+---
+
+# 🏆 Troféus
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XENON-PLAYS&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📈 Atividade
+
+[![XENON-PLAYS github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XENON-PLAYS&theme=tokyo-night)](https://github.com/XENON-PLAYS)
+
+---
+
 ![Snake animation](https://raw.githubusercontent.com/XENON-PLAYS/XENON-PLAYS/output/github-snake-dark.svg)
