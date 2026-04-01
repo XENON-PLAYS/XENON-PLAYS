@@ -8,7 +8,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo **Richard**, também conhecido como **Xenon_Plays**.  
-Tenho **17 anos** e estou cursando **Ensino Médio Técnico em Informática no IFSul**.
+Tenho **18 anos** e estou cursando **Ensino Médio Técnico em Informática no IFSul**.
 
 💻 Atualmente estou em busca de uma oportunidade como **Desenvolvedor Web**.
 
