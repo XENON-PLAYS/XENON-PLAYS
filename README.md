@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="45"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&width=700&lines=XENON_PLAYS;Desenvolvedor+FullStack;Desenvolvedor+Web;Dev+de+17+anos"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=800&color=00FF00&vCenter=true&width=700&lines=XENON_PLAYS;Desenvolvedor+FullStack;Desenvolvedor+Web;Dev+de+18+anos"/>
 </h1>
 
 <img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
